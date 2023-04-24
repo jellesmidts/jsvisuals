@@ -1,5 +1,5 @@
  .u-section-1 {
-  min-height: 676px;
+  min-height: 714px;
 }
 
 .u-section-1 .u-image-1 {
@@ -11,7 +11,7 @@
 
 .u-section-1 .u-text-1 {
   font-size: 4.5rem;
-  font-weight: 500;
+  font-weight: normal;
   margin: -464px auto 0;
 }
 
@@ -42,8 +42,15 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 0.875rem;
-  margin: -46px calc(((100% - 1140px) / 2) + 409px) 60px auto;
+  margin: -46px calc(((100% - 1140px) / 2) + 409px) 0 auto;
   padding: 9px 29px 11px 27px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 20px;
+  height: 20px;
+  margin: 172px auto 60px;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
